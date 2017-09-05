@@ -20,3 +20,4 @@ git reset --soft HEAD~1
 git reset --hard HEAD~1
 git revert 12dd44gg
 git1
+git
